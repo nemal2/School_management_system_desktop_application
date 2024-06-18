@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|e:\\4_semester\\past_projects\\desktop_pos\\pos3\\school-management-system-using-csharp-main\\schoolmangementsystem\\schoolmangementsystem\\addteachersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\addteachersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\schoolmangementsystem\\addteachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\addteachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nemal\\AppData\\Local\\Temp\\aqo11ait..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\schoolmangementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\schoolmangementsystem\\addteachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\addteachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\schoolmangementsystem\\addteachersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\addteachersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\schoolmangementsystem\\addstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\addstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTeachersForm.cs",
+              "DocumentMoniker": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\AddTeachersForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\AddTeachersForm.cs",
+              "ToolTip": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\AddTeachersForm.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\AddTeachersForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAACxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T15:42:13.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\Form1.cs",
+              "ToolTip": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form1.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T19:13:01.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddTeachersData.cs",
+              "DocumentMoniker": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\AddTeachersData.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\AddTeachersData.cs",
+              "ToolTip": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\AddTeachersData.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\AddTeachersData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T15:41:34.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\MainForm.cs",
+              "ToolTip": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T18:50:22.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddTeachersForm.cs [Design]",
+              "DocumentMoniker": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\AddTeachersForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\AddTeachersForm.cs",
+              "ToolTip": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\AddTeachersForm.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\AddTeachersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T17:48:30.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\nemal\\AppData\\Local\\Temp\\aqo11ait..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-20T10:49:14.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddTeachersForm.Designer.cs",
+              "DocumentMoniker": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\AddTeachersForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\AddTeachersForm.Designer.cs",
+              "ToolTip": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\AddTeachersForm.Designer.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\AddTeachersForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T19:44:28.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\LoginForm.cs",
+              "ToolTip": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T19:18:40.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudentsForm.cs [Design]",
+              "DocumentMoniker": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\AddStudentsForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\AddStudentsForm.cs",
+              "ToolTip": "E:\\4_semester\\Past_Projects\\Desktop_POS\\pos3\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\AddStudentsForm.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\AddStudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T19:11:27.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
